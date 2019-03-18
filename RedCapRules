@@ -1,0 +1,11 @@
+RedCap rules for every new participant:
+- On the left of the page, go to Add/Edit records. Choose to add a new participant.
+- A RedCap number will be automatically attributed (e.g., 6). In order to modify it to
+our own classification, one must first go to the "Visit" questionnaire, enter date of data entry, complete the form (scroll through
+at the bottom of the page) and save and exit. Then, go to "Choose action for record" => "Rename record" and add the participant's code.
+- You can start completing the next questionnaires.
+- Always choose to complete a form when it is completed. Don't leave a form incomplete for days on.
+- For every questionnaire where the sum of points is pre-calculated, make sure that the given value makes sense. This is especially
+important for the BNSS where some answers have unrelated values ("Non évaluable" = 9).
+- Some questions requiring a text answer are required but can have a null value (e.g., how many cigarettes do you smoke in a day?"). If
+the answer is none/no/no answer, write N/A.
